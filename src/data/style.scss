@@ -1,0 +1,29 @@
+
+.column-wrapper{
+    display: grid;
+    justify-content: center;
+    
+    
+
+    padding: 0 10px 10px;
+
+    border: 1px solid #999999;
+
+    .column-title{
+        padding: 5px;
+
+    }
+
+    .value-selector {
+        display: grid;
+        grid-gap: 10px;
+        .percent-number{
+            max-width: 50px;
+        }
+
+    }
+
+
+
+}
+
